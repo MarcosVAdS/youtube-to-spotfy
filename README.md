@@ -1,1 +1,1 @@
-# youtube-to-spotfy
+# youtube-to-spotify
